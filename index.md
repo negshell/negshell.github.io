@@ -12,7 +12,7 @@ This page is a comprehensive guide to Negshell Casting to accompany the paper: [
 
 ### Contact
 
-Questions beyond the documentation? Please submit an [Issue](//github.com/prnthp/negshell/issues) on the repository or contact me directly at [prnthp@uw.edu](mailto:prnthp@uw.edu).
+Questions beyond the documentation? Please submit an [Issue](//github.com/negshell/negshell.github.io/) on the repository or contact me directly at [prnthp@uw.edu](mailto:prnthp@uw.edu).
 
 ### Paper Authors
 - Jom Preechayasomboon - [prnthp.github.io](//prnthp.github.io)
