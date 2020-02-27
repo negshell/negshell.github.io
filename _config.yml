@@ -2,7 +2,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Negshell Casting
-baseurl: /negshell
+baseurl: 
 remote_theme: pmarsceill/just-the-docs
 description: 'Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication companion documentation'
 aux_links:
