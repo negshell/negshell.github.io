@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-remote-theme
+
+title: Negshell Casting
+baseurl: /negshell
+remote_theme: pmarsceill/just-the-docs
+description: 'Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication companion documentation'
+aux_links:
+  'Read the Paper':
+    - "//collections.plos.org/s/soft-robotics"
+footer_content: 'If you found this guide helpful, please cite the paper and/or this website. ♥ <br /> <a href="https://prnthp.github.io">Jom Preechayasomboon</a>, 2020'
