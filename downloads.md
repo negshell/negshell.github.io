@@ -52,7 +52,7 @@ Data (.csv) used for the experiments in the paper and scripts that process the d
 
 |Item                           |Link                                    |
 |:------------------------------|:---------------------------------------|
-|Experimental Data (.ZIP)       |[Download](https://github.com/prnthp/negshell/blob/master/ExperimentalData.zip){: .btn }|
+|Experimental Data (.ZIP)       |[Download](ExperimentalData.zip){: .btn }|
 
 ## Everything
 Download the entire guide and its files!
