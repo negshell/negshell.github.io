@@ -1,4 +1,4 @@
-![Three Finger Gripper](docs/images/tripodHeroText.jpg)
+![Three Finger Gripper](images/tripodHeroText.jpg)
 
 Hi folks!
 
