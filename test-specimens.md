@@ -8,7 +8,6 @@ layout: default
 # Specimens for Mechanical Testing
 {: .no_toc }
 
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -16,6 +15,12 @@ layout: default
 {:toc}
 
 ## Design
+
+[Download Preform File](/files/preform/Specimens.form){: .btn .btn-blue }
+
+[Download Engineering Files](downloads#simple=design-examples){: .btn }
+
+
 To characterize how negshell and structural cores change the stiffness of silicone rubber, we used ⌀16 mm x 11 mm hollow cylinder cores that are casted in a mold, creating a cylindrical specimens ⌀20 mm x 15 mm in size.
 <model-viewer src="files/visuals/PerfBoth.glb"
     alt="Negshell Core"

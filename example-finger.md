@@ -38,6 +38,10 @@ layout: default
 {: .no_toc }
 This is an introductory example of combining structural and negshell cores into a soft robotic actuator. The finger utilizes negshell cores to create a fluid channel that leads up to a series of expanding bellows. Structural cores provide a stiff path for force transmission from the fingertip, through the bellows and up to the base of the finger. The finger is approximately 18 mm in diameter and 55 mm long with a domed tip.
 
+[Download Preform File](/files/preform/BellowJointedFinger.form){: .btn .btn-blue }
+
+[Download Engineering Files](downloads#finger){: .btn }
+
 
 ## Table of contents
 {: .no_toc .text-delta }
