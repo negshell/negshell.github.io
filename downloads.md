@@ -7,11 +7,6 @@ layout: default
 
 # Downloads
 {: .no_toc }
-**Preform files available**
-
-**STEP downloads are coming soon**
-
-[Experimental Data](#experimental-data) available now.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,29 +19,32 @@ These are the test specimen cores and molds.
 
 |Item                           |Link                                    |
 |:------------------------------|:---------------------------------------|
-|Negshell Core (.STEP)          |[Download](#){: .btn }|
-|Structural Core (.STEP)        |[Download](#){: .btn }|
-|Molds (.STEP)                  |[Download](#){: .btn }|
-|All CAD Files (.STEP in .ZIP)  |[Download](#){: .btn }|
+|Negshell Pattern (.SLDBLK in . ZIP)|[Download](/files/engineering/PerforationBlocks.zip){: .btn }|
+|Negshell Core (.STEP in .ZIP)  |[Download](/files/engineering/NegshellCore.zip){: .btn }|
+|Structural Core (.STEP in .ZIP)|[Download](/files/engineering/StructuralCore.zip){: .btn }|
+|Molds (.STEP in .ZIP)          |[Download](/files/engineering/SpecimenMold.zip){: .btn }|
+|All CAD Files (.STEP in .ZIP)  |[Download](/files/engineering/Specimen.zip){: .btn }|
 |Form 3 Print Files (.form)     |[Download](/files/preform/Specimens.form){: .btn }|
 
 ## Finger
 
 |Item                           |Link                                    |
 |:------------------------------|:---------------------------------------|
-|Cores (.STEP in .ZIP)          |[Download](#){: .btn }|
-|Molds (.STEP in .ZIP)          |[Download](#){: .btn }|
-|All CAD Files (.STEP in .ZIP)  |[Download](#){: .btn }|
+|Negshell Cores (.STEP in .ZIP) |[Download](/files/engineering/BellowFingerNegshellCore.zip){: .btn }|
+|Structural Cores (.STEP in .ZIP)|[Download](/files/engineering/BellowFingerStructuralCore.zip){: .btn }|
+|Molds (.STEP in .ZIP)          |[Download](/files/engineering/BellowFingerMold.zip){: .btn }|
+|All CAD Files (.STEP in .ZIP)  |[Download](/files/engineering/BellowFinger.zip){: .btn }|
 |Form 3 Print Files (.form)     |[Download](/files/preform/BellowJointedFinger.form){: .btn }|
 
 ## Soft Robotic Gripper
 
 |Item                           |Link                                    |
 |:------------------------------|:---------------------------------------|
-|Cores (.STEP in .ZIP)          |[Download](#){: .btn }|
-|Molds (.STEP in .ZIP)          |[Download](#){: .btn }|
-|Base (.STEP)                   |[Download](#){: .btn }|
-|All CAD Files (.STEP in .ZIP)  |[Download](#){: .btn }|
+|Negshell Cores (.STEP in .ZIP) |[Download](/files/engineering/ThreeFingerGripperNegshellCore.zip){: .btn }|
+|Structural Cores (.STEP in .ZIP)|[Download](/files/engineering/ThreeFingerGripperStructuralCore.zip){: .btn }|
+|Molds (.STEP in .ZIP)          |[Download](/files/engineering/ThreeFingerGripperMold.zip){: .btn }|
+|Base (.STEP in .ZIP)           |[Download](/files/engineering/ThreeFingerGripperBase.zip){: .btn }|
+|All CAD Files (.STEP in .ZIP)  |[Download](/files/engineering/ThreeFingerGripper.zip){: .btn }|
 |Form 3 Print Files (.form)     |[Download](/files/preform/ThreeFingerGripper.form){: .btn }|
 
 ## Experimental Data
@@ -57,8 +55,9 @@ Data (.csv) used for the experiments in the paper and scripts that process the d
 |Experimental Data (.ZIP)       |[Download](ExperimentalData.zip){: .btn }|
 
 ## Everything
-Download the entire guide and its files!
+Download the entire project, preprint, and source files for this website.
 
 |Item                           |Link                                    |
 |:------------------------------|:---------------------------------------|
-|Every File Above (.ZIP)        |[Download](#){: .btn }|
+|Whole Project                  |[OSF Project](//osf.io/ntwh8/){: .btn } |
+|Website Source                 |[Github](//github.com/negshell/negshell.github.io/){: .btn } |

@@ -44,7 +44,7 @@ Creating negshell cores in CAD is a straightforward process and can be adapted t
     1. *SW* - Use the **Surface Offset** command and set the **Offset to 0 mm** to create a copy of the surface.
     1. *SW* - Use the **Thicken** command to thicken the surface by **0.4 mm** inwards (right most button of the three options). Make sure to **untick Merge Result**. Then hide the original solid body. *This thickness can be tweaked and tuned for different printers or materials.*
 1. Cut perforations into the core using this pattern:
-    1. *SW* - Create a sketch in the desired plane and use [this](downloads) pattern by going to **Tools → Blocks → Insert**. Position and insert multiple blocks to cover the desired area. *This perforation pattern can be tweaked and tuned for different printers or materials.*
+    1. *SW* - Create a sketch in the desired plane and use [this](/files/engineering/PerforationBlocks.zip) pattern by going to **Tools → Blocks → Insert**. Position and insert multiple blocks to cover the desired area. *This perforation pattern can be tweaked and tuned for different printers or materials.*
     1. *SW* - Use the **Cut-Extrude** command to cut the perforations into the parts. Use the **Through All - Both** option to ensure the whole part is cut.
     1. *SW* - Repeat the above steps for cutting perforations in multiple directions. Generally one direction suffices.
     1. *SW* - (Optional) Sometimes the perforations result in multiple bodies - keep all the bodies. Put the core bodies in a folder for easier handling.
