@@ -3,7 +3,7 @@ title: 'Example: Soft Robotic Gripper'
 nav_order: 6
 layout: default
 ---
-<script type="module" src="https://modelviewer.dev/dist/model-viewer.js"></script>
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 # Example: Soft Robotic Gripper
 This is the same gripper as shown in the front page. It has six-ish degrees of freedom using six individually actuated bellow-joints. The gripper's fingers are designed to casted onto the base rather than casted and then bonded.

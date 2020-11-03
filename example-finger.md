@@ -30,8 +30,7 @@ layout: default
     display: none;
   }
 </style>
-<script type="module" src="https://modelviewer.dev/dist/model-viewer.js"></script>
-<!-- <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script> -->
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 
 # Example: Soft Robotic Finger
