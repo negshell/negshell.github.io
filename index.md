@@ -9,14 +9,14 @@ Hi folks!
 This page is a comprehensive guide to Negshell Casting to accompany the paper: [**Negshell casting: 3D-printed structured and sacrificial cores for soft robot fabrication**](//journals.plos.org/plosone/article?id=10.1371/journal.pone.0234354). Negshell casting is a fabrication method for making lightweight and strong soft robots. It eliminates the steps for intermediate core removal or multi-step casting for silicone or urethane based soft robots, soft haptic actuators or soft medical devices.
 
 ### Menu
-- [**Molding and Casting**](/molding-and-casting/)
-- [**Negshell Cores**](/negshell-cores/)
-- [**Structural Cores**](/structural-cores/)
-- [**Test Specimens**](/test-specimens/)
-- [**Example: Soft Robotic Finger**](/example-finger/)
-- [**Example: Soft Robotic Gripper**](/example-gripper/)
-- [**Downloads**](/downloads/)
-- [**Videos**](/videos/)
+- [**Molding and Casting**](/molding-and-casting.html)
+- [**Negshell Cores**](/negshell-cores.html)
+- [**Structural Cores**](/structural-cores.html)
+- [**Test Specimens**](/test-specimens.html)
+- [**Example: Soft Robotic Finger**](/example-finger.html)
+- [**Example: Soft Robotic Gripper**](/example-gripper.html)
+- [**Downloads**](/downloads.html)
+- [**Videos**](/videos.html)
 
 <hr />
 
